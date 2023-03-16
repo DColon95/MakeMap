@@ -7,7 +7,7 @@ const size = '640x640'; // This parameter takes a string of the form {horizontal
 | ------- | ---------------------------------- |
 | 640x640 | 640x640 (returns 1280x1280 pixels) |*/
 
-const key = 'AIzaSyB_PlhsyhxT7KhzJR4BFmtT6EN6sn764ig';
+const key = '';
 
 document.getElementById('address-form').addEventListener('submit', makeMaps);
 
